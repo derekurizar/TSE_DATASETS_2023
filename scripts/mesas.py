@@ -35,16 +35,18 @@ def build_hierarchy(json_files):
 
 def create_mesas_csv(hierarchy, file):
     with open(file, 'w', newline='') as csvfile:
-        fieldnames = ['Departamento', 'Municipio', 'Centro', 'Mesa']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
+        writer = csv.writer(csvfile)
+        writer.writerow(['Departamento', 'Municipio', 'Centro', 'Mesa'])
 
-        for departamento, municipios in hierarchy.items():
-            for municipio, centros in municipios.items():
-                for centro, mesas in centros.items():
-                    for mesa in mesas:
+        for departamento in sorted(hierarchy.keys()):
+            municipios = hierarchy[departamento]
+            for municipio in sorted(municipios.keys()):
+                centros = municipios[municipio]
+                for centro in sorted(centros.keys()):
+                    mesas = centros[centro]
+                    for mesa in sorted(mesas):
                         writer.writerow(
-                            {'Departamento': departamento, 'Municipio': municipio, 'Centro': centro, 'Mesa': mesa})
+                            [departamento, municipio, centro, mesa])
 
 
 # Example usage
