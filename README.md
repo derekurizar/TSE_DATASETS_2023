@@ -6,7 +6,7 @@ Nuestro objetivo es asegurar la transparencia y precisión en el conteo de votos
 ## Proceso:
 
 Hay 2 carpetas: actas_procesadas y actas_malas.
-La carpeta que nos interesa es "actas_malas", esta carpeta se encuentra en el siguiente enlace [enlace] y debes descargarla.
+La carpeta que nos interesa es "actas_malas", esta carpeta se encuentra en el siguiente enlace [enlace](https://drive.google.com/drive/folders/1W2-Hrdddcv8vuL9oznThOgQzWAjdr-5c?usp=drive_link) y debes descargarla.
 
 Una vez tienes descargada la carpeta "actas_malas" selecciona una acta según la tabla de abajo y revisan el acta con su data digitada, tienes dos formas de hacerlo:
 1) Mirar el archivo json
