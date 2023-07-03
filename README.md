@@ -20,10 +20,10 @@ Departamento W Municipio X Centro Y Mesa Z - Incorrecta
 
 Ejemplo:
 ```
-Departamento W Municipio X Centro Y Mesa Z - Correcta
+Departamento 19 Municipio 10 Centro 3475 Mesa 22314 - Correcta
 ```
 
-4) Luego de mandar el mensaje alguien del resto del grupo revisará esa misma acta y reaccionará con un ❤️ a ese mensaje, si luego de la revisión la data es congruente de dicha acta se incluirá al listado de actas procesadas.
+4) Luego de mandar el mensaje alguien del resto del grupo revisará esa misma acta y reaccionará con un 👍 a ese mensaje, si luego de la revisión la data es congruente de dicha acta se incluirá al listado de actas procesadas.
 
 5) Si luego de ser revisada el mensaje tiene esta reacción ✅ es que ya fue revisada correctamente. (Por favor esta reacción es solamente agregada por el admin)
 
