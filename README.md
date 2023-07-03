@@ -31,6 +31,21 @@ Puedas ser verificador de las actas de los demás, pero no de las tuyas.
 dentro del campo de "Verificación 1" debes seleccionar si los datos del acta son congruentes.
 El campo "Verificación 2" es para la doble verificación por parte del administrador, esto para que cada acta cuente con una doble verificación.
 
+Para proporcionar una descripción adecuada de los nuevos archivos agregados en el repositorio en tu pull request, puedes incluir lo siguiente en el archivo README:
+
+## Integridad
+
+En este repositorio, hemos agregado una carpeta llamada `integrity` que contiene archivos relacionados con la integridad de las actas. Aquí se encuentra una breve descripción de cada archivo:
+
+- `integrity.json`: Este archivo es un objeto JSON que mapea el número de acta con el enlace de integridad correspondiente. Puedes utilizar este archivo para obtener rápidamente los enlaces de integridad asociados con cada acta.
+
+- `integrity.txt`: Este archivo es un archivo de texto plano que incluye una lista de todas las actas, tanto aquellas que tienen el enlace de integridad como aquellas que no lo tienen. Es útil para tener una visión general de todas las actas en un solo lugar.
+
+- `no_hash.txt`: Este archivo de texto plano contiene una lista de todas las actas que no tienen el enlace de integridad asociado. Puede ser útil para identificar rápidamente las actas que aún necesitan asignarles un enlace de integridad.
+
+Estos archivos han sido agregados para mejorar la transparencia y garantizar la integridad de las actas en este repositorio. Si tienes alguna pregunta o sugerencia relacionada con estos archivos, no dudes en comunicarte con nosotros.
+
+La motivación de agregar esto es para tener un backup si el TSE decide no mostrar más esta URL para cada acta.
 
 ### Disclaimer
 El siguiente contenido y los resultados de este proyecto tienen fines informativos y no constituyen ninguna información oficial o legal. Este proyecto hace uso de datos abiertos al público, los cuales se obtienen de conformidad con el Decreto número 57-2008 del Congreso de la República de Guatemala, promulgado el 23 de septiembre de 2008, conocido como Ley de Acceso a la Información Pública.
