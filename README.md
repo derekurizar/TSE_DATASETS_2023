@@ -9,8 +9,8 @@ Hay 2 carpetas: actas_procesadas y actas_malas.
 La carpeta que nos interesa es "actas_malas", esta carpeta se encuentra en el siguiente enlace [enlace](https://drive.google.com/drive/folders/1W2-Hrdddcv8vuL9oznThOgQzWAjdr-5c?usp=drive_link) y debes descargarla.
 
 Una vez tienes descargada la carpeta "actas_malas" selecciona una acta según la tabla de abajo y revisan el acta con su data digitada, tienes dos formas de hacerlo:
-1) Mirar el archivo json
-2) Comparar con lo que salga en el trep. https://www.trep.gt/#!/tc1/ENT
+1) Revisar el Acta
+2) Comparar con lo que salga en el trep. https://www.trep.gt/#!/tc1/ENT digitado o bien comparar con el archivo JSON.
 3) Si la información es congruente y correcta debes enviar un mensaje en el grupo de Telegram con el siguiente formato:
 
 ```
@@ -23,9 +23,9 @@ Ejemplo:
 Departamento W Municipio X Centro Y Mesa Z - Correcta
 ```
 
-4) Luego de mandar el mensaje el resto del grupo revisará esa misma acta y reaccionará con un ❤️ a ese mensaje, si luego de la revisión la data es congruente se dicha acta se incluirá al listado de actas procesadas.
+4) Luego de mandar el mensaje alguien del resto del grupo revisará esa misma acta y reaccionará con un ❤️ a ese mensaje, si luego de la revisión la data es congruente de dicha acta se incluirá al listado de actas procesadas.
 
-5) Si luego de ser revisada el mensaje tiene esta reacción ✅ es que ya fue revisada correctamente.
+5) Si luego de ser revisada el mensaje tiene esta reacción ✅ es que ya fue revisada correctamente. (Por favor esta reacción es solamente agregada por el admin)
 
 
 ### Disclaimer
