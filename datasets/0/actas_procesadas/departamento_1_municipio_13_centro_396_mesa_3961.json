@@ -1,1 +1,130 @@
-[{"partido": "UNIDAD NACIONAL DE LA ESPERANZA", "votos": 61}, {"partido": "PARTIDO AZUL", "votos": 6}, {"partido": "VALOR UNIONISTA", "votos": 76}, {"partido": "CABAL", "votos": 13}, {"partido": "TODOS", "votos": 1}, {"partido": "VAMOS POR UNA GUATEMALA DIFERENTE", "votos": 50}, {"partido": "PARTIDO HUMANISTA DE GUATEMALA", "votos": 0}, {"partido": "PARTIDO REPUBLICANO", "votos": 8}, {"partido": "PARTIDO DE INTEGRACI\u00d3N NACIONAL", "votos": 0}, {"partido": "COMUNIDAD ELEFANTE", "votos": 1}, {"partido": "VICTORIA", "votos": 2}, {"partido": "MOVIMIENTO SEMILLA", "votos": 33}, {"partido": "FRENTE DE CONVERGENCIA NACIONAL", "votos": 0}, {"partido": "PARTIDO POLITICO NOSOTROS", "votos": 0}, {"partido": "UNION REPUBLICANA", "votos": 3}, {"partido": "URNG-MAIZ WINAQ", "votos": 2}, {"partido": "COMPROMISO, RENOVACION Y ORDEN", "votos": 3}, {"partido": "BIENESTAR NACIONAL", "votos": 5}, {"partido": "VISION CON VALORES", "votos": 11}, {"partido": "MI FAMILIA", "votos": 4}, {"partido": "CAMBIO", "votos": 0}, {"partido": "VOLUNTAD, OPORTUNIDAD Y SOLIDARIDAD", "votos": 8}, {"partido": "Total Votos V\u00e1lidos", "votos": 287}, {"partido": "Votos Nulos", "votos": 46}, {"partido": "Votos en Blanco", "votos": 18}, {"partido": "Total Votos V\u00e1lidamente Emitidos", "votos": 351}, {"partido": "Votos Inv\u00e1lidos", "votos": 0}, {"partido": "Total Votos", "votos": 351}, {"partido": "Impugnaciones", "votos": 0}, {"partido": "Cantidad de papeletas recibidas", "votos": 393}, {"partido": "Cantidad de papeletas no usadas", "votos": 49}, {"partido": "Ciudadanos que se presentaron a votar", "votos": 352}]
+[
+    {
+        "partido": "UNIDAD NACIONAL DE LA ESPERANZA",
+        "votos": 61
+    },
+    {
+        "partido": "PARTIDO AZUL",
+        "votos": 6
+    },
+    {
+        "partido": "VALOR UNIONISTA",
+        "votos": 76
+    },
+    {
+        "partido": "CABAL",
+        "votos": 13
+    },
+    {
+        "partido": "TODOS",
+        "votos": 1
+    },
+    {
+        "partido": "VAMOS POR UNA GUATEMALA DIFERENTE",
+        "votos": 50
+    },
+    {
+        "partido": "PARTIDO HUMANISTA DE GUATEMALA",
+        "votos": 0
+    },
+    {
+        "partido": "PARTIDO REPUBLICANO",
+        "votos": 8
+    },
+    {
+        "partido": "PARTIDO DE INTEGRACIÓN NACIONAL",
+        "votos": 0
+    },
+    {
+        "partido": "COMUNIDAD ELEFANTE",
+        "votos": 1
+    },
+    {
+        "partido": "VICTORIA",
+        "votos": 2
+    },
+    {
+        "partido": "MOVIMIENTO SEMILLA",
+        "votos": 33
+    },
+    {
+        "partido": "FRENTE DE CONVERGENCIA NACIONAL",
+        "votos": 0
+    },
+    {
+        "partido": "PARTIDO POLITICO NOSOTROS",
+        "votos": 0
+    },
+    {
+        "partido": "UNION REPUBLICANA",
+        "votos": 3
+    },
+    {
+        "partido": "URNG-MAIZ WINAQ",
+        "votos": 2
+    },
+    {
+        "partido": "COMPROMISO, RENOVACION Y ORDEN",
+        "votos": 3
+    },
+    {
+        "partido": "BIENESTAR NACIONAL",
+        "votos": 5
+    },
+    {
+        "partido": "VISION CON VALORES",
+        "votos": 11
+    },
+    {
+        "partido": "MI FAMILIA",
+        "votos": 4
+    },
+    {
+        "partido": "CAMBIO",
+        "votos": 0
+    },
+    {
+        "partido": "VOLUNTAD, OPORTUNIDAD Y SOLIDARIDAD",
+        "votos": 8
+    },
+    {
+        "partido": "Total Votos Válidos",
+        "votos": 287
+    },
+    {
+        "partido": "Votos Nulos",
+        "votos": 46
+    },
+    {
+        "partido": "Votos en Blanco",
+        "votos": 18
+    },
+    {
+        "partido": "Total Votos Válidamente Emitidos",
+        "votos": 351
+    },
+    {
+        "partido": "Votos Inválidos",
+        "votos": 0
+    },
+    {
+        "partido": "Total Votos",
+        "votos": 351
+    },
+    {
+        "partido": "Impugnaciones",
+        "votos": 0
+    },
+    {
+        "partido": "Cantidad de papeletas recibidas",
+        "votos": 393
+    },
+    {
+        "partido": "Cantidad de papeletas no usadas",
+        "votos": 49
+    },
+    {
+        "partido": "Ciudadanos que se presentaron a votar",
+        "votos": 351
+    }
+]

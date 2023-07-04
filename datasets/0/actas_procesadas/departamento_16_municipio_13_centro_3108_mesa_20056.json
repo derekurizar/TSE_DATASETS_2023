@@ -1,19 +1,19 @@
 [
     {
         "partido": "UNIDAD NACIONAL DE LA ESPERANZA",
-        "votos": 6
+        "votos": 66
     },
     {
         "partido": "PARTIDO AZUL",
-        "votos": 7
+        "votos": 3
     },
     {
         "partido": "VALOR UNIONISTA",
-        "votos": 0
+        "votos": 19
     },
     {
         "partido": "CABAL",
-        "votos": 6
+        "votos": 4
     },
     {
         "partido": "TODOS",
@@ -21,7 +21,7 @@
     },
     {
         "partido": "VAMOS POR UNA GUATEMALA DIFERENTE",
-        "votos": 5
+        "votos": 0
     },
     {
         "partido": "PARTIDO HUMANISTA DE GUATEMALA",
@@ -37,43 +37,43 @@
     },
     {
         "partido": "COMUNIDAD ELEFANTE",
-        "votos": 2
-    },
-    {
-        "partido": "VICTORIA",
-        "votos": 28
-    },
-    {
-        "partido": "MOVIMIENTO SEMILLA",
-        "votos": 82
-    },
-    {
-        "partido": "FRENTE DE CONVERGENCIA NACIONAL",
-        "votos": 1
-    },
-    {
-        "partido": "PARTIDO POLITICO NOSOTROS",
         "votos": 0
     },
     {
-        "partido": "UNION REPUBLICANA",
-        "votos": 3
+        "partido": "VICTORIA",
+        "votos": 0
     },
     {
-        "partido": "URNG-MAIZ WINAQ",
-        "votos": 4
+        "partido": "MOVIMIENTO SEMILLA",
+        "votos": 0
     },
     {
-        "partido": "COMPROMISO, RENOVACION Y ORDEN",
+        "partido": "FRENTE DE CONVERGENCIA NACIONAL",
+        "votos": 0
+    },
+    {
+        "partido": "PARTIDO POLITICO NOSOTROS",
         "votos": 1
     },
     {
+        "partido": "UNION REPUBLICANA",
+        "votos": 1
+    },
+    {
+        "partido": "URNG-MAIZ WINAQ",
+        "votos": 5
+    },
+    {
+        "partido": "COMPROMISO, RENOVACION Y ORDEN",
+        "votos": 0
+    },
+    {
         "partido": "BIENESTAR NACIONAL",
-        "votos": 10
+        "votos": 0
     },
     {
         "partido": "VISION CON VALORES",
-        "votos": 12
+        "votos": 42
     },
     {
         "partido": "MI FAMILIA",
@@ -81,35 +81,35 @@
     },
     {
         "partido": "CAMBIO",
-        "votos": 0
+        "votos": 1
     },
     {
         "partido": "VOLUNTAD, OPORTUNIDAD Y SOLIDARIDAD",
-        "votos": 23
+        "votos": 1
     },
     {
         "partido": "Total Votos Válidos",
-        "votos": 193
+        "votos": 146
     },
     {
         "partido": "Votos Nulos",
-        "votos": 205
+        "votos": 67
     },
     {
         "partido": "Votos en Blanco",
-        "votos": 0
+        "votos": 44
     },
     {
         "partido": "Total Votos Válidamente Emitidos",
-        "votos": 205
+        "votos": 257
     },
     {
         "partido": "Votos Inválidos",
-        "votos": 10
+        "votos": 16
     },
     {
         "partido": "Total Votos",
-        "votos": 195
+        "votos": 273
     },
     {
         "partido": "Impugnaciones",
@@ -117,14 +117,14 @@
     },
     {
         "partido": "Cantidad de papeletas recibidas",
-        "votos": 400
+        "votos": 380
     },
     {
         "partido": "Cantidad de papeletas no usadas",
-        "votos": 195
+        "votos": 107
     },
     {
         "partido": "Ciudadanos que se presentaron a votar",
-        "votos": 205
+        "votos": 273
     }
 ]
